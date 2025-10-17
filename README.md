@@ -7,9 +7,7 @@
 
 ###  About Me
 
-I’m Mrunal — a builder, optimizer, and dreamer.  
-From a small village in India to the innovation labs of Arizona State University, my journey has been about transforming curiosity into impact.  
-I specialize in **Cloud Infrastructure**, **Observability**, and **Generative AI**, designing systems that are resilient, scalable, and intelligent.  
+I’m Mrunal, a software engineer with 5 years of experience in site reliability engineering and DevOps. I like making life easier for everyone at work by automating and simplifying workflows. I enjoy problem solving, thinking critically, and brainstorming ideas. I focus on getting things done — thoroughly, efficiently, and with attention to detail. I like building observability and reliability solutions that make systems stronger and more transparent.
 
 ═══════════════════════════════════════════════
 
@@ -19,9 +17,9 @@ I specialize in **Cloud Infrastructure**, **Observability**, and **Generative AI
 timeline
     title Mrunal’s Engineering Odyssey
     2015 :  Started B.E. in Computer Engineering at Mumbai University
-    2019 :  Joined MSCI as an Intern → Grew into Associate SRE & DevSecOps Engineer
-    2021 :  Architected CI/CD pipelines on Docker & Kubernetes, automating reliability
-    2023 :  Led Climate Action Network @ MSCI, combining tech + sustainability
+    2019 :  Joined MSCI as an Intern → Learnt about production systems ownership, Started working as an FTE within 4 months.
+    2021 :  Architected CI/CD pipelines on Docker & Kubernetes, automating reliability, Got promoted to Associate Level.
+    2023 :  Built automated telemetry solutions for applications hosted on Azure and GCP cloud. Led Climate Action Network @ MSCI, combining tech + sustainability.
     2024 :  Began M.S. in Software Engineering at Arizona State University (GPA 3.89/4.0)
     2025 :  Selected as Software Engineering Intern (Observability) at Tesla
     Future :  Building the next generation of intelligent, observable systems
@@ -95,9 +93,9 @@ Developed a semantic web application that integrates Generative AI to summarize 
 
 ###  Let’s Connect
 
- [mrunal2148@gmail.com](mailto:mrunal2148@gmail.com)  
- [linkedin.com/in/mrunal-kapure](https://www.linkedin.com/in/mrunal-kapure)  
- [github.com/mrunal2148](https://github.com/mrunal2148)
+ Email : [mrunal2148@gmail.com](mailto:mrunal2148@gmail.com)  
+ LinkedIn : [linkedin.com/in/mrunal-kapure](https://www.linkedin.com/in/mrunal-kapure)  
+ Github : [github.com/mrunal2148](https://github.com/mrunal2148)
 
 ═══════════════════════════════════════════════
 

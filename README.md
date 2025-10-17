@@ -1,89 +1,105 @@
-<!-- Profile Header -->
-<h1 align="center">👋 Hi, I'm Mrunal Kapure</h1>
-<h3 align="center">💻 Software Engineer | ☁️ Cloud & DevOps | 🤖 GenAI Enthusiast</h3>
+# 🚀 Mrunal Kapure
+**Software Engineer | Cloud · DevOps · GenAI**
 
-<p align="center">
-  <a href="mailto:mrunal2148@gmail.com"><img src="https://img.shields.io/badge/Email-mrunal2148%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
-  <a href="https://www.linkedin.com/in/mrunal-kapure"><img src="https://img.shields.io/badge/LinkedIn-Mrunal%20Kapure-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://github.com/mrunal2148"><img src="https://img.shields.io/badge/GitHub-mrunal2148-black?style=for-the-badge&logo=github"></a>
-</p>
+> Building systems that not only run — but run beautifully.
 
----
+═══════════════════════════════════════════════
 
-### 🌟 About Me  
-🎓 **MS in Software Engineering** @ Arizona State University (GPA: 3.89/4.0)  
-💼 **Ex-MSCI SRE & DevSecOps Engineer (5 yrs)** | **Incoming Tesla SWE Intern (Summer 2025)**  
-🌍 Currently based in Tempe, AZ  
+### 🌌 About Me
 
-> I’m passionate about automating reliability, scaling observability, and using GenAI to simplify complex engineering workflows.  
-> First-generation woman engineer from my village 🇮🇳 — on a mission to make tech inclusive and impactful.
+I’m Mrunal — a builder, optimizer, and dreamer.  
+From a small village in India to the innovation labs of Arizona State University, my journey has been about transforming curiosity into impact.  
+I specialize in **Cloud Infrastructure**, **Observability**, and **Generative AI**, designing systems that are resilient, scalable, and intelligent.  
 
----
+═══════════════════════════════════════════════
 
-### 💼 Experience  
+### 🧭 My Journey
 
-#### 🚗 **Tesla, Inc.** — *Software Engineering Intern (Observability)*  
-📍 Fremont, CA · May 2025 – Aug 2025  
-- Automated Splunk index deployments (cut manual effort by **95%**)  
-- Integrated Catchpoint APIs for 24×7 node monitoring, reducing false positives  
-- Built a Catchpoint Updates Tracker to power Splunk dashboards for 400+ nodes  
+```mermaid
+timeline
+    title Mrunal’s Engineering Odyssey
+    2015 : 💡 Started B.E. in Computer Engineering at Mumbai University
+    2019 : 🚀 Joined MSCI as an Intern → Grew into Associate SRE & DevSecOps Engineer
+    2021 : 🧩 Architected CI/CD pipelines on Docker & Kubernetes, automating reliability
+    2023 : 🌿 Led Climate Action Network @ MSCI, combining tech + sustainability
+    2024 : ✈️ Began M.S. in Software Engineering at Arizona State University (GPA 3.89/4.0)
+    2025 : ⚡ Selected as Software Engineering Intern (Observability) at Tesla
+    Future : 🌍 Building the next generation of intelligent, observable systems
+```
+### 🪄 Featured Projects
 
-#### 🌍 **MSCI, Inc.** — *Associate SRE & DevSecOps Engineer*  
-📍 Mumbai, India · May 2019 – Aug 2024  
-- Architected CI/CD pipelines with Docker + Kubernetes for microservices  
-- Led automation for deployments & backups, reclaiming **70% operational capacity**  
-- Designed Power BI dashboards for observability and performance insights  
-- Integrated SonarQube & Mend to enhance code visibility and compliance  
+#### 🧠 SmartRCA  
+A GenAI-powered web app that automates Root Cause Analysis — reducing manual effort by **80%** and improving diagnostic accuracy.
 
----
+#### ☁️ Cloud Cost Optimization  
+Deployed spend analysis and optimization tooling that identified idle workloads and achieved **30% annual cost savings**.
 
-### 🚀 Featured Projects  
+#### 🔄 Cloud Migration & Monitoring  
+Migrated telemetry and monitoring pipelines to cloud with automated health tracking, cutting release cycles from **days to hours**.
 
-| Project | Tech Stack | Summary |
-|----------|-------------|----------|
-| 🧩 [**SmartRCA**](https://github.com/mrunalkapure/smartrca) | Python · GenAI | Automates RCA reports using GenAI — cut manual effort by 80%. |
-| ☁️ **Cloud Cost Optimization** | Azure · GCP | Built cost tracking tools and achieved 30% annual savings. |
-| 🔄 **Cloud Migration & Monitoring** | Azure · CI/CD | Migrated telemetry to cloud, reducing release cycles from days → hours. |
-| 🕵️‍♀️ **Missing Person Report** | React · Semantic Web · GenAI | Auto-summarizes case data, improving analysis speed by 50%. |
+#### 🕵️ Missing Person Report  
+Developed a semantic web application that integrates Generative AI to summarize and refine reports — improving case analysis speed by **50%**.
 
----
+═══════════════════════════════════════════════
 
-### 🧰 Tech Stack  
+### ⚙️ Technical Toolkit
+
 **Languages:** Python · Java · Go · Bash · SQL · JavaScript  
-**Cloud & DevOps:** Azure · GCP · AWS · Docker · Kubernetes · Terraform · Ansible · GitHub Actions  
-**Monitoring & Tools:** Splunk · Grafana · Prometheus · Datadog · Power BI · Tableau · OpsGenie · PagerDuty  
+**Cloud & DevOps:** Azure · GCP · AWS · Docker · Kubernetes · Terraform · GitHub Actions  
+**Monitoring:** Splunk · Grafana · Prometheus · Datadog · Power BI · OpsGenie · PagerDuty  
 
----
+═══════════════════════════════════════════════
 
-### 🏅 Certifications  
-- ☁️ Microsoft Azure Fundamentals (AZ-900)  
-- 📘 IT Infrastructure Library Foundation Level (PeopleCert)  
+### 💼 Experience
 
----
+**Tesla, Inc. — Software Engineering Intern (Observability)**  
+*May 2025 – Aug 2025 · Fremont, CA*  
+- Automated Splunk index deployments (**95% manual effort reduced**)  
+- Integrated Catchpoint performance data to improve detection accuracy  
+- Built dashboards tracking 400+ monitoring nodes, accelerating incident response  
 
-### 📈 GitHub Stats  
+**MSCI, Inc. — Associate SRE & DevSecOps Engineer**  
+*May 2019 – Aug 2024 · Mumbai, India*  
+- Architected CI/CD pipelines with Docker & Kubernetes for microservices  
+- Automated deployments and maintenance workflows, reclaiming **70% team capacity**  
+- Built telemetry-based dashboards enabling data-driven system optimization  
+- Led incident RCA initiatives across production environments  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrunal2148&show_icons=true&theme=tokyonight&hide_border=true" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrunal2148&theme=tokyonight&hide_border=true" height="165">
-</p>
+═══════════════════════════════════════════════
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal2148&layout=compact&theme=tokyonight&hide_border=true">
-</p>
+### 🎓 Education
 
----
+**Arizona State University**  
+*M.S. in Software Engineering (Aug 2024 – May 2026)*  
+📍 Tempe, AZ · GPA: **3.89/4.0**
 
-### ✨ Fun Facts  
-- 🌱 Currently exploring **AI for Observability**  
-- 🧭 Believe in **learning by doing** — from hackathons to open-source  
-- 💬 Love mentoring and helping peers navigate career growth  
+**Mumbai University**  
+*B.E. in Computer Engineering (2015 – 2019)*  
 
----
+═══════════════════════════════════════════════
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrunal2148&label=Profile%20Views&color=0e75b6&style=flat" alt="mrunal2148" />
-</p>
+### 🪙 Certifications
 
-⭐ *“Build systems that not only run — but run beautifully.”*  
+- Microsoft Azure Fundamentals (AZ-900)  
+- IT Infrastructure Library Foundation (ITIL)  
 
+═══════════════════════════════════════════════
+
+### 📊 GitHub Snapshot
+
+*(Add your GitHub Stats cards here, e.g.:)*  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrunal2148&show_icons=true&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrunal2148&layout=compact&theme=radical&hide_border=true)
+
+═══════════════════════════════════════════════
+
+### 💬 Let’s Connect
+
+📫 [mrunal2148@gmail.com](mailto:mrunal2148@gmail.com)  
+🔗 [linkedin.com/in/mrunal-kapure](https://www.linkedin.com/in/mrunal-kapure)  
+💻 [github.com/mrunal2148](https://github.com/mrunal2148)
+
+═══════════════════════════════════════════════
+
+✨ *Keep Automating. Keep Creating. Keep Dreaming.*
